@@ -49,6 +49,12 @@ A user planning a wedding Anniversary can input details and instantly receive a 
 
 ---
 
+## 📸 Flowchart of the app
+<img width="1356" height="507" alt="image" src="https://github.com/user-attachments/assets/f37d633e-045a-43b5-9ab4-4af498dcf01a" />
+
+
+---
+
 ## 🎥 Demo Video
 [Watch on YouTube](https://youtu.be/1chaSqs8PFY))
 
